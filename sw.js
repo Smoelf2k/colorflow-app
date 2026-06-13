@@ -5,7 +5,7 @@
    - Øvrige same-origin GET (hashede assets, skabeloner): cache-first.
    - Nyt CACHE-navn ved hver strategi-ændring → gamle caches ryddes i activate. */
 
-const CACHE = 'cbn-cache-v2';
+const CACHE = 'cbn-cache-v3';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
