@@ -1,8 +1,8 @@
 {
   "name": "ColorFlow PixLab",
   "short_name": "ColorFlow",
-  "description": "Farvelæg pixel-tegninger felt for felt. Saml kort, stig i level og slap af.",
-  "lang": "da",
+  "description": "Color pixel-art pictures cell by cell. Collect cards, level up and relax.",
+  "lang": "en",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
