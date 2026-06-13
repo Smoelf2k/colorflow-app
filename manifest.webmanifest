@@ -1,0 +1,25 @@
+{
+  "name": "ColorFlow PixLab",
+  "short_name": "ColorFlow",
+  "description": "Farvelæg pixel-tegninger felt for felt. Saml kort, stig i level og slap af.",
+  "lang": "da",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fdfbf7",
+  "theme_color": "#8e24aa",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
